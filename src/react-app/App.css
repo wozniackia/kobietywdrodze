@@ -12,6 +12,7 @@
 
 .header {
   padding: 2rem 0;
+  background-color: #f2efe4;
 }
 
 .title {
@@ -25,7 +26,7 @@
 }
 
 .cta-button {
-  background-color: #646cff;
+  background-color: #4a7c59;
   color: white;
   padding: 0.5rem 1.5rem;
   border-radius: 4px;
@@ -35,6 +36,9 @@
 .features {
   margin-top: 3rem;
   text-align: left;
+  background-color: #ffffff;
+  padding: 1rem;
+  border-radius: 4px;
 }
 
 .features ul {
@@ -45,4 +49,6 @@
 .footer {
   margin-top: 3rem;
   font-size: 0.9rem;
+  background-color: #f2efe4;
+  padding: 1rem;
 }
